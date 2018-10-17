@@ -1,5 +1,5 @@
 public class Pqrst {
-public static void main (String ags[])
+public void display()
 {
 System.out.println("Main method");
 }
